@@ -47,7 +47,7 @@ Implente as funções mais simples primeiro.
 
 Eles são essenciais para os testes. Depois implemente as funções `push`,`pop`, `grow` e `shrink`.
 
-Quando tiver algo para enviar para o repositório principal, faça um __Pull Request__ em [edl-pilhaRubroNegra](https://github.com/anabs-escolar/edl-pilhaRubroNegra)
+Quando tiver algo para enviar para o repositório principal, faça um __Pull Request__ em [edl-pilhaRubroNegra](https://github.com/anabs-escolar/edl-pilhaRubroNegra/pulls)
 
 ---
 
