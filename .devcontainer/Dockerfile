@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/devcontainers/java:1-11-bullseye
 
 # Remove possíveis repositórios problemáticos
-RUN rm -f /etc/apt/sources.list.d/*.list || true
+RUN rm -f /etc/apt/sources.list.d/yarn.list
 
 RUN apt-get update || true
 
